@@ -12,7 +12,7 @@ to install:
 $ pip install -r requirements.txt
 
 ### How to run the script
-```bash
+``` bash
 $ python get_links.py
 ```
 You will then be asked which webpage you would like to analyze.
