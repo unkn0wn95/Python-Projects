@@ -10,6 +10,7 @@ Required Modules
 to install:
 ```
 $ pip install -r requirements.txt
+```
 
 ### How to run the script
 ``` bash
