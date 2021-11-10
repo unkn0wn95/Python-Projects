@@ -10,7 +10,13 @@
             Enter URL : https://dribbble.com/
         ```
 
+### How to run the script
+``` bash
+$ python get_links.py
+```
+
 ### Linux:
+
         ```
         2.Run `sudo apt-get install chromium-chromedriver`
         ```
