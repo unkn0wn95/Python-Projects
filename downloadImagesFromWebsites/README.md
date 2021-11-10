@@ -11,9 +11,9 @@
 
 ### Linux:
         ```
-            2.Run sudo apt-get install chromium-chromedriver
-            3.Run python3 scrapeImageLinux.py
-            4.Enter URL : https://dribbble.com/
+        2.Run `sudo apt-get install chromium-chromedriver`
+        3.Run `python3 scrapeImageLinux.py`
+        4.Enter URL : `https://dribbble.com/`
         ```
 
 
