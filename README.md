@@ -1,2 +1,2 @@
 # Python-Projects
-All projects from github
+All Projects from Github
